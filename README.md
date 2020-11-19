@@ -1,4 +1,4 @@
-# virus-sandbox
+# virus-breakdown
 
 - ⚠️ NO ejecutar "Orden del Comparendo Electronico.vbs", este archivo es un virus que circula en diferentes correos electrónicos falsos. Para más información consulte [aquí] 
 - ✔️ "decodificado.py" es seguro, elimina la ofuscación del virus que consiste en simples reemplazos e inversiones de strings. 
