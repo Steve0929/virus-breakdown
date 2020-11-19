@@ -1,9 +1,10 @@
 # virus-sandbox
 
-- ⚠️ NO ejecutar "Orden del Comparendo Electronico.vbs", este archivo es un virus que circula en diferentes correos electrónicos falsos.
+- ⚠️ NO ejecutar "Orden del Comparendo Electronico.vbs", este archivo es un virus que circula en diferentes correos electrónicos falsos. Para más información consulte [aquí] 
 - ✔️ "decodificado.py" es seguro, elimina la ofuscación del virus que consiste en simples reemplazos e inversiones de strings. 
 
-## El virus descifrado:
+## :supervillain: El virus descifrado:
+Con el archivo decodificado.py se puede observar que el virus contiene el siguiente código en base64:
 
 Código base 64
 ```
@@ -29,4 +30,7 @@ Pueden evidenciarse dos urls desde donde se descargan otras cadenas en base64 qu
 - http://elvbs.store/vbs/11280420662.txt
 
 
-# Existen otros 170 archivos en http://elvbs.store/vbs
+### Existen otros 170 archivos, muy posiblemente otras variaciones del virus en http://elvbs.store/vbs
+
+
+[aquí]: https://www.virus.com.co/318/usted-presenta-con-comparendo-por-foto-multa
